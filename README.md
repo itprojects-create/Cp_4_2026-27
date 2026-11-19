@@ -41,8 +41,8 @@ We implement the protocol, compare the performance of seven resolution strategie
 | Folder | Contents |
 | --- | --- |
 | [Project Synopsis](6th%20Sem/Project%20Synopsis/) | [Project Synopsis PDF](6th%20Sem/Project%20Synopsis/Cp_4_Sem06_Project_Synopsis.pdf) |
-| [Project Logbook](6th%20Sem/Project%20Logbook/) | Pending — Semester VI logbook |
-| [Project Reports](6th%20Sem/Project%20Reports/) | Pending — Semester VI project reports |
+| [Project Logbook](6th%20Sem/Project%20Logbook/) | [Semester VI Logbook PDF](6th%20Sem/Project%20Logbook/Cp_4_Sem06_Project_Logbook_Draft.pdf) — February–April 2026 draft |
+| [Project Reports](6th%20Sem/Project%20Reports/) | [Attendance Report PDF](6th%20Sem/Project%20Reports/Cp_4_Sem06_Attendance_Report_Draft.pdf) — February–April 2026 draft |
 
 ### Semester VII
 

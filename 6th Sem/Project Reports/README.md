@@ -1,9 +1,9 @@
 # Project Reports — Semester VI
 
-Upload the Semester VI project reports here, or add accessible links below.
+**Pseudonym Resolution and Formal Verification of an Unlinkable Two-Message IoT Authentication Protocol**
 
-Submission status: Pending.
+Semester VI capstone project attendance report for February–April 2026, academic year 2025–26.
 
-## Document or Repository Links
+[View PDF](Cp_4_Sem06_Attendance_Report_Draft.pdf)
 
-No links added yet. Replace this line with descriptive Markdown links when ready.
+The supplied document is labelled as a draft; that status is retained in the filename.
