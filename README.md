@@ -2,7 +2,7 @@
 
 ## Pseudonym Resolution and Formal Verification of an Unlinkable Two-Message IoT Authentication Protocol
 
-This repository brings together the Semester VI and Semester VII documentation for our Bachelor of Engineering capstone project in Information Technology at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**. It serves as the academic documentation and submission archive, with semester-wise folders for reports, logbooks, the research paper, the demonstration video, and working model source code links.
+This repository brings together the Semester VI and Semester VII documentation for our Bachelor of Engineering capstone project in Information Technology at **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**. It serves as the academic documentation and submission archive, with semester-wise folders for reports, logbooks, the research paper, the demonstration video, and working model source code.
 
 The implementation, experiments, verification models, and research sources are maintained in our main project repository: **[hybrid-ecc-iot-auth](https://github.com/jaykerkar0405/hybrid-ecc-iot-auth)**.
 
@@ -52,7 +52,7 @@ We implement the protocol, compare the performance of seven resolution strategie
 | [Research Paper](7th%20Sem/Research%20Paper/) | [Research Paper PDF](7th%20Sem/Research%20Paper/Cp_4_Sem07_Research_Paper.pdf) — submitted SPIN 2027 review manuscript |
 | [Project Logbook](7th%20Sem/Project%20Logbook/) | [Semester VII Logbook PDF](7th%20Sem/Project%20Logbook/Cp_4_Sem07_Project_Logbook.pdf) |
 | [Project Demonstration Video](7th%20Sem/Project%20Demonstration%20Video/) | Pending — three-minute demonstration video |
-| [Working Model Source Code](7th%20Sem/Working%20Model%20Source%20Code/) | [Source Code ZIP](7th%20Sem/Working%20Model%20Source%20Code/Cp_4_Sem07_Working_Model_Source_Code.zip) — committed snapshot of the main project repository |
+| [Working Model Source Code](7th%20Sem/Working%20Model%20Source%20Code/) | [Browse Source Code](7th%20Sem/Working%20Model%20Source%20Code/hybrid-ecc-iot-auth/) — project files available directly in this repository |
 
 ## Project Resources
 
