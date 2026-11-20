@@ -51,7 +51,7 @@ We implement the protocol, compare the performance of seven resolution strategie
 | [Final Project Report (Black Book)](7th%20Sem/Final%20Project%20Report%20%28Black%20Book%29/) | [Black Book PDF](7th%20Sem/Final%20Project%20Report%20%28Black%20Book%29/Cp_4_Sem07_Final_Project_Report_Black_Book.pdf) |
 | [Research Paper](7th%20Sem/Research%20Paper/) | [Research Paper PDF](7th%20Sem/Research%20Paper/Cp_4_Sem07_Research_Paper.pdf) — submitted SPIN 2027 review manuscript |
 | [Project Logbook](7th%20Sem/Project%20Logbook/) | [Semester VII Logbook PDF](7th%20Sem/Project%20Logbook/Cp_4_Sem07_Project_Logbook.pdf) |
-| [Project Demonstration Video](7th%20Sem/Project%20Demonstration%20Video/) | Pending — three-minute demonstration video |
+| [Project Demonstration Video](7th%20Sem/Project%20Demonstration%20Video/) | [Demonstration Video (MP4)](7th%20Sem/Project%20Demonstration%20Video/Cp_4_Sem07_Project_Demonstration.mp4) — 2 minutes 59 seconds |
 | [Working Model Source Code](7th%20Sem/Working%20Model%20Source%20Code/) | [Browse Source Code](7th%20Sem/Working%20Model%20Source%20Code/hybrid-ecc-iot-auth/) — project files available directly in this repository |
 
 ## Project Resources

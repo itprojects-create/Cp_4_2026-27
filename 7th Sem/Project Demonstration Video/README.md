@@ -1,9 +1,7 @@
 # Project Demonstration Video
 
-Add an accessible link to the required 3-minute project demonstration video below.
+**Pseudonym Resolution and Formal Verification of an Unlinkable Two-Message IoT Authentication Protocol**
 
-Submission status: Pending.
+[View or Download the Demonstration Video](Cp_4_Sem07_Project_Demonstration.mp4)
 
-## Document or Repository Links
-
-No links added yet. Replace this line with descriptive Markdown links when ready.
+Duration: **2 minutes 59 seconds**. Format: **MP4**, 1920 × 1080, with audio.
